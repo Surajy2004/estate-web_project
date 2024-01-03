@@ -8,12 +8,12 @@ import { initializeApp } from "firebase/app";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: "prince-estate-32947.firebaseapp.com",
-  projectId: "prince-estate-32947",
-  storageBucket: "prince-estate-32947.appspot.com",
-  messagingSenderId: "989752458927",
-  appId: "1:989752458927:web:0c523f5f97824787f35e5a",
-  measurementId: "G-RCKWB049KH"
+  authDomain: "estate-app-ec8ed.firebaseapp.com",
+  projectId: "estate-app-ec8ed",
+  storageBucket: "estate-app-ec8ed.appspot.com",
+  messagingSenderId: "185286726003",
+  appId: "1:185286726003:web:3d93a10171efa15e7c3506",
+  measurementId: "G-RCKWB049KH",
 };
 
 // Initialize Firebase
